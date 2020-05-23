@@ -1,16 +1,19 @@
-# celebs_api_flutter_app
+# Flutter-celebs-app-nodejs-api
 
-A new Flutter project.
+You can <br>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V61GH1X)
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+Follow me on github <br>
+![GitHub followers](https://img.shields.io/github/followers/dhruvilxcode?label=Follow%20me&style=social)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[NodeJS API Code - Click Here](https://github.com/dhruvilxcode/celebs-api-nodejs-demo "NodeJS API Code")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+| [![1](https://github.com/dhruvilxcode/Flutter-celebs-app-nodejs-api/blob/master/1.png?raw=true "1")](https://github.com/dhruvilxcode/Flutter-celebs-app-nodejs-api/blob/master/1.png?raw=true "1")  | [![2](https://github.com/dhruvilxcode/Flutter-celebs-app-nodejs-api/blob/master/2.png?raw=true "2")](https://github.com/dhruvilxcode/Flutter-celebs-app-nodejs-api/blob/master/2.png?raw=true "2")  |
+| ------------ | ------------ |
+|   |   |
